@@ -10,10 +10,16 @@ Starting at 07:00 it updates the display every fifteen minutes with the weather 
 ![weatherstation_guide](/doc/weatherstation-guide.png)
 ### Example art images 
 [![vangogh](/generated/2023-12-06-vangogh-Gw.jpg)](https://github.com/arnoldwells/weatherstation/tree/main/generated)
+
+Image created in the style of Vincent van Gogh.
 ### Error handling
 ![openweathermap_error](/doc/openweathermap-error.png)
 
 This image shows an error occurred fetching the openweathermap data and uses a thunderstorm icon and some -1 temperatures. The summary is used to show any error messages.
+
+![other_errors](/doc/other-errors.png)
+
+Examples of other errors: File error, Getimg.ai json error, Slideshow error
 
 ### Further improvements and features
 - Query the google calendar and add a countdown for the next two birthday events
@@ -25,4 +31,5 @@ This image shows an error occurred fetching the openweathermap data and uses a t
 - Automatically remove old images from the generated folder
 - Show UV index the same way as the PoP - resolving any overlap conflicts
 - Retrieve the [artists-new.json](artists-new.json) file from Google Drive to facilitate easier updating
+- Connect to a Xiaomi Mi Temperature / Humidity sensor through bluetooth
 

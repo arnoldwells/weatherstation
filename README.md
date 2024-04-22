@@ -24,4 +24,5 @@ This image shows an error occurred fetching the openweathermap data and uses a t
 - Detect a summary containing an error message and don't use it for getimg.ai
 - Automatically remove old images from the generated folder
 - Show UV index the same way as the PoP - resolving any overlap conflicts
+- Retrieve the [artists-new.json](artists-new.json) file from Google Drive to facilitate easier updating
 

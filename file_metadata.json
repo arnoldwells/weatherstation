@@ -1,0 +1,1 @@
+{"model": "absolute-reality-v1-6", "prompt": "A day of partly cloudy with clear spells in December. Painting in the style of artist Vincent van Gogh", "negative_prompt": "Disfigured, cartoon, blurry, nude", "output_format": "jpeg", "width": 576, "height": 448, "steps": 25, "guidance": 6, "seed": 929629768, "cost": 0.00048384}

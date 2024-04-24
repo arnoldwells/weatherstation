@@ -97,14 +97,14 @@ while True:
     if midnight <= time_now < seven_am:                                                         # sleep:  => 00:00 and < 07:00
         mode = "sleep"
         if DEBUG: print("* * * sleep mode")
-        # show_image(SLEEP_IMAGE, background="white")
+        show_image(SLEEP_IMAGE, background="white")
         exit()
         sleep(seconds_to_seven(seven_am, time_now))                                             # currently bypassed
     elif nine_am <= time_now < nine_sixteen:                                                    # daily artimage:  => 9:00 and < 9:16
         mode = "artimage"
-        '''art_image = getimg(summary)                                                          # generate art image
+        art_image = getimg(summary)                                                             # generate art image
         if DEBUG: print("image generated with filename:", art_image)
-        show_image(art_image, background="artimage")'''
+        show_image(art_image, background="artimage")
         x = 0
         iterations = 2
         while x < iterations:
@@ -116,21 +116,20 @@ while True:
     elif mode == "weatheram":
         summary = get_weather()                                                                 # get and display weather
         if DEBUG: print("sleeping for 900")
-        # exit()
         sleep(900)                                                                              # 2700/1800/900 45/30/15 min
     elif mode == "artimage":
         show_image(art_image, background="artimage")
         sleep(3600)
         mode = "weartheram"
     elif mode == "slideshow":
-        file_list = get_file_list()                                                             # fetch from google drive
-        random.shuffle(file_list)                                                               # randomise list
-        del file_list[5:]                                                                       # truncate to first 5
+        file_list = get_file_list()                                                               # fetch from google drive
+        random.shuffle(file_list)                                                                  # randomise list
+        del file_list[5:]                                                                        # truncate to first 5
         if DEBUG: print("file_list is now:", *file_list,sep="\n")
-        while file_list:                                                                        # list not empty
+        while file_list:                                                                         # list not empty
             x = 1
             iterations = 1
-            show_image(file_list.pop(0)["webContentLink"], background="slide")                  # show slide
+            show_image(file_list.pop(0)["webContentLink"], background="slide")                   # show slide
             sleep(3600)                                                                         # 60/45/30/15 = 3600/2700/1800/900s
             while x < iterations:
                 if DEBUG: print(f"current mode is <{mode}>, iterations is set to: {iterations} x is: {x}")

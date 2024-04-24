@@ -35,5 +35,5 @@ def show_image(image, background):
 
     inky.set_image(main_image, saturation=SATURATION)
     inky.set_border(BCOLOR)
-    # inky.show()
+    inky.show()
     print("done inky.show")

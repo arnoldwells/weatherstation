@@ -86,7 +86,7 @@ def get_weather():
         else:
             summary = forecast_dict['daily'][0]['summary']
         if draw.textsize(summary, font_ti)[0] > 410:                                            # insert newline if text is long
-            position = summary.find(" ", len(summary)//2)                                       # find " " in second half of summary
+            position = summary.find(" ", len(summary)//2)                                        # find " " in second half of summary
             summary = summary[:position] + "\n" + summary[position + 1:]                        # insert \n
             # # split_summary = summary.split()                                                 # old method
             # # split_summary.insert(8, "\n")
@@ -264,7 +264,7 @@ def get_weather():
     inky.set_image(main_image, saturation=SATURATION)
     inky.set_border(BCOLOR)
     if DEBUG: print("inky.show <next>")
-    # inky.show()                                                                                 # output to eink display
+    inky.show()                                                                                 # output to eink display
     if DEBUG: print("inky.show <done>")
 
     return summary                                                                              # everything worked

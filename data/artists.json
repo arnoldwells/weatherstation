@@ -1,0 +1,176 @@
+{ 
+    "botticelli": {
+        "Name": "Sandro Botticelli",
+        "Keywords": [" "]
+    },
+    "davinci": {
+        "Name": "Leonardo da Vinci",
+        "Keywords": [" "]
+    },
+    "durer": {
+        "Name": "Albrecht Durer",
+        "Keywords": [" "]
+    },
+    "michelangelo": {
+        "Name": "Michelangelo Buonarroti",
+        "Keywords": [" "]
+    },
+    "raphael": {
+        "Name": "Raphael",
+        "Keywords": [" "]
+    },
+    "caravaggio": {
+        "Name": "Caravaggio",
+        "Keywords": [" "]
+    },
+    "rubens": {
+        "Name": "Peter Paul Rubens",
+        "Keywords": [" "]
+    },
+    "gentileschi": {
+        "Name": "Artemisia Gentileschi",
+        "Keywords": [" "]
+    },
+    "bernini": {
+        "Name": "Gian Lorenzo Bernini",
+        "Keywords": [" "]
+    },
+    "velázquez": {
+        "Name": "Diego Velázquez",
+        "Keywords": [" "]
+    },
+    "rembrandt": {
+        "Name": "Rembrandt Harmenszoon van Rijn",
+        "Keywords": [" "]
+    },
+    "vermeer": {
+        "Name": "Johannes Vermeer",
+        "Keywords": [" "]
+    },
+    "hokusai": {
+        "Name": "Katsushika Hokusai",
+        "Keywords": [" ", "Edo period", "Mount Fuji", "Ukiyo-e"]
+    },
+    "kiyonaga": {
+        "Name": "Torii Kiyonaga",
+        "Keywords": [" ", "Edo period", "nishiki-e", "Ukiyo-e"]
+    },
+    "hiroshige": {
+        "Name": "Utagawa Hiroshige",
+        "Keywords": [" "]
+    },
+    "delacroix": {
+        "Name": "Eugène Delacroix",
+        "Keywords": [" "]
+    },
+    "manet": {
+        "Name": "Édouard Manet",
+        "Keywords": [" "]
+    },
+    "degas": {
+        "Name": "Edgar Degas",
+        "Keywords": [" "]
+    },
+    "monet": {
+        "Name": "Claude Monet",
+        "Keywords": [" ", "Japanese foot Bridge", "water lilies", "Irises", "reflection", "impressionist", "beach", "church", "coast", "gardern gate", "garden", "low tide", "cliffs", "wheatfield", "breaking waves", "flowers", "anglers", "sail boats", "cottage", "fishing boats", "pourville", "varengeville", "Fécamp", "Vétheuil", "Trouville, Low Tide"]
+    },
+    "cassatt": {
+        "Name": "Mary Cassatt",
+        "Keywords": [" "]
+    },
+    "cézanne": {
+        "Name": "Paul Cézanne",
+        "Keywords": [" "]
+    },
+    "gauguin": {
+        "Name": "Paul Gauguin",
+        "Keywords": [" "]
+    },
+    "vangogh": {
+        "Name": "Vincent van Gogh",
+        "Keywords": [" ", "olive trees", "provence", "lavender flowers", "Sunflowers", "Wheatfield with crows", "stars", "reflection", "Branches with Almond Blossom"],
+        "Weights": [90, 10]
+    },
+    "matisse": {
+        "Name": "Henri Matisse",
+        "Keywords": [" "]
+    },
+    "klimt": {
+        "Name": "Gustav Klimt",
+        "Keywords": [" "]
+    },
+    "picasso": {
+        "Name": "Pablo Picasso",
+        "Keywords": [" ", "Cubism", "Crystal Cubism", "Paris", "blue period", "Rose Period", "Black Period", "neoclassical", "Cote d'Azur", "Mediterranean", "Antibes"],
+        "Weights": [50, 10, 10, 10, 10, 10]
+    },
+    "modigliani": {
+        "Name": "Amedeo Modigliani",
+        "Keywords": [" "]
+    },
+    "rivera": {
+        "Name": "Diego Rivera",
+        "Keywords": [" "]
+    },
+    "okeeffe": {
+        "Name": "Georgia O'Keeffe",
+        "Keywords": [" "]
+    },
+    "magritte": {
+        "Name": "René Magritte",
+        "Keywords": [" "]
+    },
+    "lowry": {
+        "Name": "Laurence Stephen Lowry",
+        "Keywords": [" "]
+    },
+    "dalí": {
+        "Name": "Salvador Dalí",
+        "Keywords": [" ", "melting watches", "surrealism"]
+    },
+    "rothko": {
+        "Name": "Mark Rothko",
+        "Keywords": [" "]
+    },
+    "pollock": {
+        "Name": "Jackson Pollock",
+        "Keywords": [" "]
+    },
+    "warhol": {
+        "Name": "Andy Warhol",
+        "Keywords": [" "]
+    },
+    "haring": {
+        "Name": "Keith Haring",
+        "Keywords": [" ", "pop art"]
+    },
+    "murakami": {
+        "Name": "Takashi Murakami",
+        "Keywords": [" "]
+    },
+    "banksy": {
+        "Name": "Banksy",
+        "Keywords": [" "]
+    },
+    "hockney": {
+        "Name": "David Hockney",
+        "Keywords": [" "]
+    },
+    "pissarro": {
+        "Name": "Camille Pissarro",
+        "Keywords": [" "]
+    },
+    "seurat": {
+        "Name": "Georges Seurat",
+        "Keywords": [" ", "chromoluminarism", "pointillism"]
+    },
+    "signac": {
+        "Name": "Paul Signac",
+        "Keywords": [" ", "pointillism"]
+    },
+    "renoir": {
+        "Name": "Pierre-Auguste Renoir",
+        "Keywords": [" "]
+    }
+}

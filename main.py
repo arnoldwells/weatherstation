@@ -49,7 +49,7 @@ while True:
     if "openweather" in current_weather.weather_source: 
         mqtt_client.publish_outside_data()
 
-    now = int(current_weather.now.strftime("%H%M"))                                     # used by the while loop
+    now = int(current_weather.now.strftime("%H%M"))
 
     if now < 100: break                                                                 # exit after midnight
     

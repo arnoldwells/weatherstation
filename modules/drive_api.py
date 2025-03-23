@@ -1,4 +1,4 @@
-def update_artists_list():                      # download new copy of artists-new.json from google drive if updated
+def update_artists_list():                      # download new copy of artists.json from google drive if updated
     print("nothing to see here")
 
 def get_file_list():                            # retrieve a list of already uploaded images

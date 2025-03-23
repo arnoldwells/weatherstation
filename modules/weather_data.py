@@ -48,8 +48,8 @@ class WeatherData:
         except AssertionError:
             self.summary = f"{self.forecast['cod']}:{self.forecast['message']}"[:80]    # truncate response message
             self.set_defaults()
-        except Exception as error: 
-            self.summary = f"api.openweathermap.org error\n{error}"
+        except Exception as error:
+            self.summary = f"api.openweathermap.org error\n{error}"[:80]
             self.set_defaults()
         else:
             self.weather_source = ["openweather"]

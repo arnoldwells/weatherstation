@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4"
-     inkscape:cx="340.5"
-     inkscape:cy="170.25"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="261.98306"
+     inkscape:cy="258.80108"
      inkscape:window-width="3750"
      inkscape:window-height="2078"
      inkscape:window-x="0"
@@ -266,8 +266,8 @@
     <rect
        x="307.61948"
        y="405.76328"
-       width="82.829498"
-       height="17.679571"
+       width="96.575906"
+       height="17.093557"
        id="rect11-8-9" />
     <rect
        x="307.61948"
@@ -296,8 +296,8 @@
     <rect
        x="307.61948"
        y="405.76328"
-       width="110.91132"
-       height="27.244381"
+       width="118.25887"
+       height="42.23659"
        id="rect11-0-13" />
     <rect
        x="307.61948"
@@ -320,8 +320,8 @@
     <rect
        x="307.61948"
        y="405.76328"
-       width="75.590202"
-       height="34.677559"
+       width="85.262802"
+       height="32.853656"
        id="rect34" />
     <rect
        x="307.61948"
@@ -404,8 +404,8 @@
     <rect
        x="307.61948"
        y="405.76328"
-       width="63.508916"
-       height="30.89801"
+       width="73.754344"
+       height="34.474284"
        id="rect11-0-13-8" />
     <rect
        x="307.61948"
@@ -918,14 +918,14 @@
     <rect
        x="307.61948"
        y="405.76328"
-       width="63.151283"
-       height="30.89801"
+       width="73.182661"
+       height="34.55893"
        id="rect11-0-13-8-5" />
     <rect
        x="307.61948"
        y="405.76328"
-       width="75.981972"
-       height="20.868814"
+       width="98.552685"
+       height="23.960491"
        id="rect11-8-5-9-0-3" />
     <marker
        style="overflow:visible"
@@ -1058,8 +1058,8 @@
     <rect
        x="307.61948"
        y="405.76328"
-       width="66.521062"
-       height="31.42661"
+       width="75.780908"
+       height="34.455236"
        id="rect11-0-6-3-4" />
     <rect
        x="307.61948"
@@ -1104,6 +1104,12 @@
        width="109.99771"
        height="17.089272"
        id="rect11-8-5-6-9-6" />
+    <rect
+       x="307.61948"
+       y="405.76328"
+       width="165.29153"
+       height="15.434949"
+       id="rect11-0-9-3" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -1128,7 +1134,7 @@
        y="136.86749" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,64.771576,41.119126)"
+       transform="matrix(0.26458333,0,0,0.26458333,64.084385,41.119126)"
        class="theme-text"
        id="text11-0-5"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-9);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1136,9 +1142,11 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan2"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan1">ELASTICSEARCH</tspan></tspan></text>
+         id="tspan5"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan3">ELASTICSEARC</tspan><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan4">H</tspan></tspan></text>
     <rect
        style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        class="theme-rect"
@@ -1149,7 +1157,7 @@
        y="132.9557" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,63.352261,37.272167)"
+       transform="matrix(0.26458333,0,0,0.26458333,63.533214,37.272167)"
        class="theme-text"
        id="text11-0-2"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1157,9 +1165,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan4"><tspan
+         id="tspan7"><tspan
            style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan3">DYNAMODB</tspan></tspan></text>
+           id="tspan6">DYNAMODB</tspan></tspan></text>
     <path
        style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#21bb1b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker26-4)"
        d="m 194.16533,130.54726 -30.041,-17.71924"
@@ -1185,7 +1193,7 @@
        y="96.828018" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,59.726442,-6.1259142)"
+       transform="matrix(0.26458333,0,0,0.26458333,58.940798,-6.3466351)"
        class="theme-text"
        id="text11"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1193,11 +1201,15 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan5">  MQTT
-</tspan><tspan
+         id="tspan10"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan9">  MQTT
+</tspan></tspan><tspan
          x="307.61914"
-         y="433.76367"
-         id="tspan6">BROKER</tspan></text>
+         y="434.09967"
+         id="tspan12"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan11">BROKER</tspan></tspan></text>
     <rect
        style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        class="theme-rect"
@@ -1216,12 +1228,12 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan9"><tspan
+         id="tspan14"><tspan
            style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan7">ADAFRUIT IO</tspan></tspan></text>
+           id="tspan13">ADAFRUIT IO</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,56.831341,26.668146)"
+       transform="matrix(0.26458333,0,0,0.26458333,57.007151,26.668146)"
        class="theme-text"
        id="text11-0-2-4"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-5);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1229,9 +1241,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan11"><tspan
+         id="tspan16"><tspan
            style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan10">DATABASE</tspan></tspan></text>
+           id="tspan15">DATABASE</tspan></tspan></text>
     <rect
        style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        class="theme-rect"
@@ -1242,7 +1254,7 @@
        y="132.71471" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,120.14805,37.500683)"
+       transform="matrix(0.26458333,0,0,0.26458333,119.70435,37.500683)"
        class="theme-text"
        id="text11-8-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-9);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1250,48 +1262,44 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan13"><tspan
-           style="font-size:10.6667px"
-           id="tspan12">DOTSTAR APA102
+         id="tspan18"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan17">DOTSTAR APA102
 </tspan></tspan></text>
-    <g
-       id="g6"
-       transform="translate(0,0.03138653)">
-      <rect
-         style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-         class="theme-rect"
-         id="rect3-7-9-2"
-         width="30"
-         height="16"
-         x="74.190231"
-         y="33.078712" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-4.6795517,-69.701571)"
-         class="theme-text"
-         id="text11-8-1-0"
-         style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-2-7);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         x="116.53114"
-         y="0"><tspan
-           x="307.61914"
-           y="418.39965"
-           id="tspan15"><tspan
-             style="font-size:16px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-             id="tspan14">LUX SENSOR</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,2.5761473,-62.519522)"
-         class="theme-text"
-         id="text11-8-0-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-1-9);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         x="116.53114"
-         y="0"><tspan
-           x="307.61914"
-           y="417.76367"
-           id="tspan17"><tspan
-             style="font-size:10.6667px"
-             id="tspan16">BH1750 </tspan></tspan></text>
-    </g>
+    <rect
+       style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       class="theme-rect"
+       id="rect3-7-9-2"
+       width="30"
+       height="16"
+       x="74.190231"
+       y="33.1101" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.7811976,-69.670184)"
+       class="theme-text"
+       id="text11-8-1-0"
+       style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-2-7);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       x="116.53114"
+       y="0"><tspan
+         x="307.61914"
+         y="418.39965"
+         id="tspan20"><tspan
+           style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan19">LUX SENSOR</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.5894977,-62.488135)"
+       class="theme-text"
+       id="text11-8-0-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-1-9);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       x="116.53114"
+       y="0"><tspan
+         x="307.61914"
+         y="417.76367"
+         id="tspan22"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan21">BH1750 </tspan></tspan></text>
     <path
        style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide);marker-mid:url(#Tail)"
        d="m 149.15527,128.95 -0.0207,-16.12198"
@@ -1311,9 +1319,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan19"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan18">HTTP</tspan></tspan></text>
+         id="tspan24"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan23">HTTP</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-1.2135873,-20.793327)"
@@ -1324,9 +1332,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan21"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan20">HTTP</tspan></tspan></text>
+         id="tspan26"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan25">HTTP</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,95.694889,-24.188946)"
@@ -1337,9 +1345,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan23"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan22">API</tspan></tspan></text>
+         id="tspan28"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan27">API</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,61.703014,11.165931)"
@@ -1350,9 +1358,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan25"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan24">API</tspan></tspan></text>
+         id="tspan30"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan29">API</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,95.614185,-56.111293)"
@@ -1363,9 +1371,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan27"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan26">API</tspan></tspan></text>
+         id="tspan32"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan31">API</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,95.614185,-38.695147)"
@@ -1376,9 +1384,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan29"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan28">API</tspan></tspan></text>
+         id="tspan34"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan33">API</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,62.470844,-52.729291)"
@@ -1389,9 +1397,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan31"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan30">API</tspan></tspan></text>
+         id="tspan36"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan35">API</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,32.007267,-6.8616298)"
@@ -1402,9 +1410,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan33"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan32">PUBLISH</tspan></tspan></text>
+         id="tspan38"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan37">PUBLISH</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,80.376218,11.165931)"
@@ -1415,9 +1423,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan35"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan34">PUBLISH</tspan></tspan></text>
+         id="tspan40"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan39">PUBLISH</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,104.06663,11.165931)"
@@ -1428,9 +1436,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan37"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan36">SUBSCRIBE</tspan></tspan></text>
+         id="tspan42"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan41">SUBSCRIBE</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,53.609105,-20.88691)"
@@ -1441,9 +1449,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan39"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan38">PUBLISH</tspan></tspan></text>
+         id="tspan44"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan43">PUBLISH</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,70.498863,-20.88691)"
@@ -1454,9 +1462,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan41"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan40">SUBSCRIBE</tspan></tspan></text>
+         id="tspan46"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan45">SUBSCRIBE</tspan></tspan></text>
     <path
        style="display:none;fill:none;fill-rule:evenodd;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker23)"
        d="m 162.76714,53.320271 31.21151,13.301615"
@@ -1496,13 +1504,12 @@
        inkscape:connection-start="#rect3-7-2-3" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker26-4-6)"
-       d="M 164.10379,64.901432 194.08322,49.059097"
+       d="M 164.10379,64.901431 194.08322,49.059097"
        class="theme-path"
        id="path25-6-6"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
-       inkscape:connection-start="#rect3-7-2-3"
-       inkscape:connection-end="#a1" />
+       inkscape:connection-start="#rect3-7-2-3" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker26-4-6-2)"
        d="m 164.10379,72.828033 h 29.97943"
@@ -1537,9 +1544,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan43"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan42">I2C</tspan></tspan></text>
+         id="tspan48"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan47">I2C</tspan></tspan></text>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#21bb1b;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker38)"
        d="m 104.21984,104.82802 h 29.90449"
@@ -1567,18 +1574,26 @@
        y="65.015114" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-6.9553809,-37.533302)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.6676128,-40.050734)"
        class="theme-text"
        id="text11-8-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-13);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-       x="164.97375"
+       x="242.42175"
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan44">BIRTHDAY LIST</tspan></text>
+         id="tspan50"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan49">BIRTHDAY
+</tspan></tspan><tspan
+         x="307.61914"
+         y="434.09967"
+         id="tspan52"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan51">     LIST</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.3659174,-30.68779)"
+       transform="matrix(0.26458333,0,0,0.26458333,1.0344167,-30.68779)"
        class="theme-text"
        id="text11-0-2-0"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-9);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1586,54 +1601,52 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan46"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan45">PASTEBIN</tspan></tspan></text>
-    <a
-       xlink:href="https://getimg.ai"
-       target="_blank"
-       id="a1"
-       transform="translate(0.0740509,0.05378262)">
-      <rect
-         style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-         class="theme-rect"
-         id="rect3-7-2-1"
-         width="30"
-         height="16"
-         x="194.00917"
-         y="33.078712" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,120.0208,-71.533308)"
-         class="theme-text"
-         id="text11-8-6-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-13-8);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         x="164.97377"
-         y="0"><tspan
-           x="307.61914"
-           y="417.76367"
-           id="tspan47">CREATE 
-</tspan><tspan
-           x="307.61914"
-           y="433.76367"
-           id="tspan48"> IMAGE</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,121.1068,-62.687791)"
-         class="theme-text"
-         id="text11-0-2-0-41"
-         style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-9-0);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         x="193.95804"
-         y="0"><tspan
-           x="307.61914"
-           y="418.39965"
-           id="tspan51"><tspan
-             style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-             id="tspan49">GETIMGAI</tspan></tspan></text>
-    </a>
+         id="tspan54"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan53">PASTEBIN</tspan></tspan></text>
+    <rect
+       style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       class="theme-rect"
+       id="rect3-7-2-1"
+       width="30"
+       height="16"
+       x="194.08322"
+       y="33.132496" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,119.36324,-71.479525)"
+       class="theme-text"
+       id="text11-8-6-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-13-8);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       x="164.97377"
+       y="0"><tspan
+         x="307.61914"
+         y="417.76367"
+         id="tspan56"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan55">CREATE 
+</tspan></tspan><tspan
+         x="307.61914"
+         y="434.09967"
+         id="tspan58"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan57"> IMAGE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,120.90204,-62.634008)"
+       class="theme-text"
+       id="text11-0-2-0-41"
+       style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-9-0);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       x="193.95804"
+       y="0"><tspan
+         x="307.61914"
+         y="418.39965"
+         id="tspan60"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan59">GETIMGAI</tspan></tspan></text>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker26-4-6-56)"
-       d="m 149.10379,64.828033 0,-15.717934"
+       d="M 149.10379,64.828033 V 49.1101"
        class="theme-path"
        id="path25-6-6-1"
        inkscape:connector-type="polyline"
@@ -1663,7 +1676,7 @@
        y="96.828018" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,118.02938,-7.338808)"
+       transform="matrix(0.26458333,0,0,0.26458333,117.45825,-7.338808)"
        class="theme-text"
        id="text11-8-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-6);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1671,14 +1684,18 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan52">WEATHER
-</tspan><tspan
+         id="tspan62"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan61">WEATHER
+</tspan></tspan><tspan
          x="307.61914"
-         y="433.76367"
-         id="tspan53"> SOURCE</tspan></text>
+         y="434.09967"
+         id="tspan64"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan63"> SOURCE</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,114.53546,1.516058)"
+       transform="matrix(0.26458333,0,0,0.26458333,113.86057,1.516058)"
        class="theme-text"
        id="text11-0-2-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-6);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1686,9 +1703,9 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan55"><tspan
-           style="font-size:10.6667px"
-           id="tspan54">OPENWEATHERMAP</tspan></tspan></text>
+         id="tspan66"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan65">OPENWEATHERMAP</tspan></tspan></text>
     <rect
        style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        class="theme-rect"
@@ -1707,7 +1724,7 @@
        y="64.828033" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,118.7368,-37.533308)"
+       transform="matrix(0.26458333,0,0,0.26458333,117.87734,-37.533308)"
        class="theme-text"
        id="text11-8-4-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-6-7);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1715,10 +1732,12 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan56">LOGGING</tspan></text>
+         id="tspan68"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan67">LOGGING</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,122.50391,-26.560869)"
+       transform="matrix(0.26458333,0,0,0.26458333,122.02045,-26.560869)"
        class="theme-text"
        id="text11-0-2-2-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-6-9);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1726,12 +1745,12 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan58"><tspan
-           style="font-size:10.6667px"
-           id="tspan57">CLOUDWATCH</tspan></tspan></text>
+         id="tspan70"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan69">CLOUDWATCH</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,122.4475,-30.560869)"
+       transform="matrix(0.26458333,0,0,0.26458333,121.91522,-30.560869)"
        class="theme-text"
        id="text11-0-2-2-7-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-6-9-6);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1739,9 +1758,9 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan60"><tspan
-           style="font-size:10.6667px"
-           id="tspan59">OCI LOG</tspan></tspan></text>
+         id="tspan72"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan71">OCI LOG</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,3.4784703,37.283208)"
@@ -1752,9 +1771,9 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan62"><tspan
+         id="tspan74"><tspan
            style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan61">LUX BH1750</tspan></tspan></text>
+           id="tspan73">LUX BH1750</tspan></tspan></text>
     <rect
        style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        class="theme-rect"
@@ -1765,7 +1784,7 @@
        y="96.828018" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.02905,-5.5790122)"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.9479381,-5.5790122)"
        class="theme-text"
        id="text11-8-1"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-2);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1773,12 +1792,12 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan64"><tspan
-           style="font-size:16px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan63">M5STACK</tspan></tspan></text>
+         id="tspan76"><tspan
+           style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan75">M5STACK</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-6.4207048,1.2609277)"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.9069023,1.2609277)"
        class="theme-text"
        id="text11-0-2-2-2"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-6-8);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1786,9 +1805,11 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan66"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan65">TEMPERATURE SHT40</tspan></tspan></text>
+         id="tspan79"><tspan
+           style="font-size:9.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan77">TEMPERATURE </tspan><tspan
+           style="font-size:9.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan78">SHT40</tspan></tspan></text>
     <rect
        style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        class="theme-rect"
@@ -1799,18 +1820,6 @@
        y="128.75102" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:0"
-       x="194.91568"
-       y="143.97244"
-       class="theme-text"
-       id="text50"><tspan
-         sodipodi:role="line"
-         id="tspan50"
-         style="text-align:start;text-anchor:start;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:0"
-         x="194.91568"
-         y="143.97244">TEMPERATURE SHT40</tspan></text>
-    <text
-       xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,119.88354,27.170866)"
        class="theme-text"
        id="text11-8-4-5"
@@ -1819,7 +1828,9 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan67">PI ZERO</tspan></text>
+         id="tspan81"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan80">PI ZERO</tspan></tspan></text>
     <path
        style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#21bb1b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker26-4-61)"
        d="m 104.21984,130.93958 29.90449,-18.11156"
@@ -1847,9 +1858,9 @@
          y="0"><tspan
            x="307.61914"
            y="418.39965"
-           id="tspan69"><tspan
-             style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-             id="tspan68">PUBLISH</tspan></tspan></text>
+           id="tspan83"><tspan
+             style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+             id="tspan82">PUBLISH</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,18.066621,11.165931)"
@@ -1860,9 +1871,9 @@
          y="0"><tspan
            x="307.61914"
            y="418.39965"
-           id="tspan71"><tspan
-             style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-             id="tspan70">SUBSCRIBE</tspan></tspan></text>
+           id="tspan86"><tspan
+             style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+             id="tspan84">SUBSCRIBE</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1893,7 +1904,7 @@
        y="64.828033" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,56.022959,-30.729137)"
+       transform="matrix(0.26458333,0,0,0.26458333,55.232988,-30.729137)"
        class="theme-text"
        id="text11-0-2-0-4"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-9-7);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1901,12 +1912,12 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan73"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan72">INKY IMPRESSION</tspan></tspan></text>
+         id="tspan88"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan87">INKY IMPRESSION</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,58.049901,-40.050734)"
+       transform="matrix(0.26458333,0,0,0.26458333,57.478814,-40.050734)"
        class="theme-text"
        id="text34"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect34);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1914,11 +1925,15 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan74">WEATHER
-</tspan><tspan
+         id="tspan90"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan89">WEATHER
+</tspan></tspan><tspan
          x="307.61914"
-         y="433.76367"
-         id="tspan75"> STATION</tspan></text>
+         y="434.09967"
+         id="tspan92"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan91"> STATION</tspan></tspan></text>
     <style
        id="style1">
     .theme-rect { fill: white; stroke: black; stroke-width: 0.265;}
@@ -1936,46 +1951,48 @@
     }
 
   </style>
-    <g
-       id="g7"
-       transform="translate(19.637001,0.03138653)">
-      <rect
-         style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-         class="theme-rect"
-         id="rect3-7-2-1-7"
-         width="30"
-         height="16"
-         x="114.46679"
-         y="33.078712" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,41.609104,-71.533308)"
-         class="theme-text"
-         id="text11-8-6-3-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-13-8-5);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         x="164.97377"
-         y="0"><tspan
-           x="307.61914"
-           y="417.76367"
-           id="tspan76">STORE
-</tspan><tspan
-           x="307.61914"
-           y="433.76367"
-           id="tspan77">IMAGE</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,38.388942,-62.729138)"
-         class="theme-text"
-         id="text11-0-2-0-41-9"
-         style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-9-0-3);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-         x="193.95804"
-         y="0"><tspan
-           x="307.61914"
-           y="418.39965"
-           id="tspan79"><tspan
-             style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-             id="tspan78">GOOGLE DRIVE</tspan></tspan></text>
-    </g>
+    <rect
+       style="fill-opacity:1;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       class="theme-rect"
+       id="rect3-7-2-1-7"
+       width="30"
+       height="16"
+       x="134.10379"
+       y="33.1101" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,60.611473,-71.501921)"
+       class="theme-text"
+       id="text11-8-6-3-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-13-8-5);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       x="164.97377"
+       y="0"><tspan
+         x="307.61914"
+         y="417.76367"
+         id="tspan94"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan93">STORE
+</tspan></tspan><tspan
+         x="307.61914"
+         y="434.09967"
+         id="tspan96"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan95">IMAGE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,56.985594,-62.697751)"
+       class="theme-text"
+       id="text11-0-2-0-41-9"
+       style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-5-9-0-3);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       x="193.95804"
+       y="0"><tspan
+         x="307.61914"
+         y="418.39965"
+         id="tspan99"><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan97">GOOGLE </tspan><tspan
+           style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan98">DRIVE</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#44713a;fill-opacity:0.760685;stroke:#343fae;stroke-width:0.264999;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.90315"
@@ -1996,7 +2013,7 @@
          style="stroke-width:0.265" /></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-6.4207048,33.293601)"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.9069023,33.293601)"
        class="theme-text"
        id="text11-0-5-4"
        style="font-size:17.3333px;line-height:1;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-8-9-0);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -2004,12 +2021,14 @@
        y="0"><tspan
          x="307.61914"
          y="418.39965"
-         id="tspan81"><tspan
-           style="font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal'"
-           id="tspan80">TEMPERATURE SHT40</tspan></tspan></text>
+         id="tspan102"><tspan
+           style="font-size:9.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan100">TEMPERATURE </tspan><tspan
+           style="font-size:9.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan101">SHT40</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.44135171,24.525515)"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.1838243,24.525515)"
        class="theme-text"
        id="text11-8-4-5-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-6-3-4);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -2017,9 +2036,26 @@
        y="0"><tspan
          x="307.61914"
          y="417.76367"
-         id="tspan82"> OTHER </tspan><tspan
+         id="tspan104"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan103"> OTHER </tspan></tspan><tspan
          x="307.61914"
-         y="433.76367"
-         id="tspan83">DEVICES</tspan></text>
+         y="434.09967"
+         id="tspan106"><tspan
+           style="font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan105">DEVICES</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,114.03859,33.557966)"
+       class="theme-text"
+       id="text11-8-7-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-0-9-3);display:inline;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       x="116.53114"
+       y="0"><tspan
+         x="307.61914"
+         y="417.76367"
+         id="tspan108"><tspan
+           style="font-size:9.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan107">TEMPERATURE SHT40</tspan></tspan></text>
   </g>
 </svg>
